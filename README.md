@@ -1,0 +1,1 @@
+# stp_ai_prisma_assets
